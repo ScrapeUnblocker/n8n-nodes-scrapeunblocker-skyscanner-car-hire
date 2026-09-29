@@ -1,0 +1,31 @@
+{
+	"node": "n8n-nodes-scrapeunblocker-skyscanner-car-hire.skyscannerCarHireScraper",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Data & Storage",
+		"Miscellaneous"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-skyscanner-car-hire#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-skyscanner-car-hire#readme"
+			}
+		]
+	},
+	"alias": [
+		"skyscanner",
+		"car hire",
+		"car rental",
+		"rental cars",
+		"travel",
+		"prices",
+		"apify",
+		"scrapeunblocker"
+	]
+}
